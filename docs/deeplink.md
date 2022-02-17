@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Deep Links
 
-As instâncias de whatsapp são os números de whatsapp que você irá integrar com a nossa plataforma, para que seja possível criar grupos, enviar mensagens e configurar automações.
+Os DeepLinks são links que redirecionam para algum aplicativo (no celular).
 
-## Criando a sua primeira instância
+Atualmente, você pode criar DeepLinks para **Instagram, Telegram, Whatsapp, Spotify, Twitter, Facebook e Youtube**
+
+Para efetuar sua criação, basta informar o link da plataforma que será gerado um novo link, que irá redirecionar seus visitantes direto para o aplicativo (ao invés do navegador).

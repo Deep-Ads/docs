@@ -8,13 +8,13 @@ const config = {
   title: "Deep Tools",
   tagline:
     "O Deep Tools é uma poderosa ferramenta de automação para grupos de WhatsApp.",
-  url: "https://docs.v4.deepads.com.br",
+  url: "https://docs.deeptools.com.br",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
-  organizationName: "deepads", // Usually your GitHub org/user name.
-  projectName: "deepads", // Usually your repo name.
+  favicon: "img/logo1.png",
+  organizationName: "deeptools", // Usually your GitHub org/user name.
+  projectName: "deeptools", // Usually your repo name.
 
   presets: [
     [
@@ -64,7 +64,7 @@ const config = {
         title: "Deep Tools",
         logo: {
           alt: "Deep Tools",
-          src: "img/logo.svg",
+          src: "img/logo.png",
         },
         items: [
           {

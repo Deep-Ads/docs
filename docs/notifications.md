@@ -31,6 +31,9 @@ Copie seu token da Hotmart através [desse link](https://app-vlc.hotmart.com/too
 
 Para integrar ao Active Campaign você não precisa informar nenhuma credencial
 
+### Greenn
+
+Para integrar ao Greenn você precisa [acessar este link](https://adm.greenn.com.br/configuracoes) e acessar o menu **Integrações e Tokens**, em seguida copie o campo **Webhook Token** e informe no campo de token na página de criação.
 
 ## Configurando os Webhooks
 
@@ -54,3 +57,15 @@ Para configurar seu webhook na Active Campaign, você precisa clicar em **Config
 
 Em seguida, basta criar uma nova configuração selecionando os eventos que você configurou em nossa plataforma e pronto!
 Se desejar, você pode selecionar listas de contatos específicas para um webhook
+
+### Greenn
+
+Para configurar seu webhook na Greenn, você precisa acessar o menu **[produtos](https://adm.greenn.com.br/produtos)** e editar o produto que deseja vincular às notificações.
+
+Em seguida você acessa o menu **Entregas**
+![clique no botão adicionar entregas](/img/docs/greenn/2.png)
+Clique no botão "Adicionar Entregas" e selecione a opção **Sistemas externos -> Webhook**
+![clique no botão adicionar entregas](/img/docs/greenn/3.png)
+
+E por fim você ativa os mesmos eventos que configurou no Deep Tools e informe o URL destacado [nesta imagem](#configurando-os-webhooks)
+![clique no botão adicionar entregas](/img/docs/greenn/4.png)

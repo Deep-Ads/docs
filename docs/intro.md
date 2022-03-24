@@ -12,7 +12,7 @@ Acesse sua conta [clicando aqui](https://v4.deeptools.com.br) e faça login util
 
 ## Demonstração da plataforma
 
-[Clique aqui para assistir ao vídeo](https://www.youtube.com/watch?v=FonixsGoiWQ)
+[![Demonstração Deep Tools](https://img.youtube.com/vi/FonixsGoiWQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=FonixsGoiWQ)
 
 
 ## Suporte
